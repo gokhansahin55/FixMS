@@ -11,7 +11,7 @@
     </module-descriptor>
     <module-descriptor external="false">
       <root-element>web-app</root-element>
-      <uri>WEB-INF/web.xml</uri>
+      <uri>WEB-INF/web.xml2</uri>
     </module-descriptor>
     <module-descriptor external="true">
       <root-element>wldf-resource</root-element>
